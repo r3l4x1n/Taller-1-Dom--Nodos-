@@ -1,7 +1,6 @@
 # Taller de Ejercicios JS (Nodos)
 ![Alt text](image.png)
-Este repositorio pretende dar respuesta a las preguntas del taller Taller#1 DOM del profesor Jossy Tello. La intension de este, es plasmar lo aprendido en clase. No pretende, ni es un sustituto de la preparación por tu cuenta. <br>
-También te recomiendo que revises el material del curso, practiques con exámenes de práctica y pedir ayuda a un mentor o tutor si lo necesitas.<br><br>
+Este repositorio pretende dar respuesta a las preguntas del taller Taller#1 DOM del profesor Jossy Tello. La intension de este, es plasmar lo aprendido en clase.<br>
 
 ## Contenido
 
